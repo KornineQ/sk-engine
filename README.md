@@ -1,8 +1,8 @@
 <!--update1-->
 <!--woah-->
-![Kade Engine logo](readme/Logo.png)
+![SKEngine logo](readme/Logo.png)
 
-![Discord](https://img.shields.io/discord/1173308675587321907?label=discord)![Discord](https://discord.gg/wKqGtAX7fx) [![GitHub issues](https://img.shields.io/github/issues/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/pulls) []() []()
+<iframe src="https://canary.discord.com/widget?id=1173308675587321907&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> [![GitHub issues](https://img.shields.io/github/issues/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/pulls) []() []()
 
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/KornineQ/sk-engine/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/KornineQ/sk-engine)![Supported platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20macOS%2C%20linux%2C%20html5-blue) ![GitHub all releases](https://img.shields.io/github/downloads/KornineQ/sk-engine/total) ![GitHub](https://img.shields.io/github/license/KornineQ/sk-engine) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/KornineQ/sk-engine?include_prereleases&label=latest%20version) 
 
@@ -16,7 +16,7 @@ Links: **[GameBanana mod page](https://gamebanana.com/mods/491438) ⋅ [play in 
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
 ## Website ([KornineQ.de](https://kornineq.de/)) (Here)
-If you're looking for documentation, changelogs, or guides, you can find those on the Kade Engine website.
+If you're looking for documentation, changelogs, or guides, you can find those on the SKEngine website.
 
 # Previews ([skip](#features))
 
