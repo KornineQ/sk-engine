@@ -2,7 +2,7 @@
 <!--woah-->
 ![SKEngine logo](readme/Logo.png)
 
-<iframe src="https://canary.discord.com/widget?id=1173308675587321907&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> [![GitHub issues](https://img.shields.io/github/issues/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/pulls) []() []()
+[![GitHub issues](https://img.shields.io/github/issues/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KornineQ/sk-engine)](https://github.com/KornineQ/sk-engine/pulls) []() []()
 
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/KornineQ/sk-engine/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/KornineQ/sk-engine)![Supported platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20macOS%2C%20linux%2C%20html5-blue) ![GitHub all releases](https://img.shields.io/github/downloads/KornineQ/sk-engine/total) ![GitHub](https://img.shields.io/github/license/KornineQ/sk-engine) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/KornineQ/sk-engine?include_prereleases&label=latest%20version) 
 
